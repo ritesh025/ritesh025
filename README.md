@@ -18,16 +18,18 @@
 - 🎯 I like clean UI, clean code, and messy brainstorming sessions.
   
 - 🤓 Always jumping into new tech—sometimes faster than I should.
-  
+
+&nbsp;
 
 ## 💻 Tech Stack
 
 <p>
   <!-- Supported skillicons -->
   <img style="margin:10px;" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,threejs,express,mysql,mongodb,python,c,cpp,git,github,vercel,netlify,firebase,supabase,figma,ps,ai,django,vite,vscode,sqlite" />
-    
-    
+     
 </p>
+
+&nbsp;
 
 ## 🌐 Connect With Me
 
@@ -35,6 +37,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrraja018) &nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshbafna025@gmail.com)
 
+&nbsp;
 
 ## 🌍 Portfolio  
 <p>
